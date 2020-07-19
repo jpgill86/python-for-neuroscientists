@@ -12,3 +12,7 @@ title: ""
 5. matplotlib
 6. Neo and Elephant
 7. neurotic
+
+# Homework
+
+1. [Homework for July 26](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-01.ipynb)
