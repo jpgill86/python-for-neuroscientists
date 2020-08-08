@@ -16,3 +16,4 @@ title: ""
 # Homework
 
 1. [Homework for July 26](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-01.ipynb)
+2. [Homework for August 9](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-02.ipynb)
