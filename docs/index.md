@@ -9,17 +9,11 @@ title: ""
 
 Follow these steps to get involved:
 
-1. **Mailing list:** [Click here to request to join the mailing list.](https://groups.google.com/forum/?oldui=1#!forum/neuropython/join)
+1. **Mailing list:** [Click here to request to join the mailing list for important announcements.](https://groups.google.com/forum/?oldui=1#!forum/neuropython/join) After joining, you can view old announcements by [clicking here](https://groups.google.com/g/neuropython).
 
-    * Important announcements are communicated through this channel.
+2. **Calendar:** [Click here to add the course calendar to your Google Calendar](https://calendar.google.com/calendar?cid=N2h1Z2gxbXZ0dWxjMmFoOW5vZGlsMHVvZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ), which includes Zoom links for weekly lessons. *Mailing list membership is required for access.*
 
-    * After joining, you can view old announcements by [clicking here](https://groups.google.com/g/neuropython).
-
-2. **Calendar:** [Click here to add the course calendar to your Google Calendar.](https://calendar.google.com/calendar?cid=N2h1Z2gxbXZ0dWxjMmFoOW5vZGlsMHVvZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-    * Your request to join the mailing list must be accepted before you can access the calendar.
-
-    * Calendar events include a Zoom link that provides access to the live lessons.
+3. **Meeting recordings:** [Optionally, click here to view recordings of missed Zoom meetings.](https://drive.google.com/drive/folders/1ZqjNGsG4w4A3G97Dta610GvOsQAUGgkq?usp=sharing) *Mailing list membership is required for access.*
 
 # Interactive Lessons
 
