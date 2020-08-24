@@ -15,7 +15,7 @@ Follow these steps to get involved:
 
 3. **Meeting recordings:** [Optionally, click here to view recordings of missed Zoom meetings.](https://drive.google.com/drive/folders/1ZqjNGsG4w4A3G97Dta610GvOsQAUGgkq?usp=sharing) *Mailing list membership is required for access.*
 
-# Interactive Lessons
+# Interactive Textbook
 
 1. [Using Notebooks in Google Colab](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/01-Using-Notebooks-in-Google-Colab.ipynb)
 
@@ -38,3 +38,5 @@ Follow these steps to get involved:
 2. [Homework for August 9](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-02.ipynb)
 
 3. [Homework for August 16](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-03.ipynb)
+
+4. [Homework for August 30](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-04.ipynb)
