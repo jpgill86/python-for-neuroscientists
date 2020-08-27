@@ -19,7 +19,7 @@ Follow these steps to get involved:
 
 1. [Using Notebooks in Google Colab](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/01-Using-Notebooks-in-Google-Colab.ipynb)
 
-2. [The Core Language of Python (BEFORE SPLIT)](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02-The-Core-Language-of-Python.ipynb)
+2. The Core Language of Python ([click here for old pre-partitioned version from 2020-08-26](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/d3edf80aba2584a717000e0706ea0294651b09c8/notebooks/02-The-Core-Language-of-Python.ipynb))
 
     * [Part 1: Help, Comments, Variables, Operators, Printing, Strings, If/Else Statements](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.1-The-Core-Language-of-Python.ipynb)
 
