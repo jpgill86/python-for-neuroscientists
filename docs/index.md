@@ -19,7 +19,17 @@ Follow these steps to get involved:
 
 1. [Using Notebooks in Google Colab](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/01-Using-Notebooks-in-Google-Colab.ipynb)
 
-2. [The Core Language of Python (WORK IN PROGRESS)](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02-The-Core-Language-of-Python.ipynb)
+2. [The Core Language of Python (BEFORE SPLIT)](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02-The-Core-Language-of-Python.ipynb)
+
+    * [Part 1: Help, Comments, Variables, Operators, Printing, Strings, If/Else Statements](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.1-The-Core-Language-of-Python.ipynb)
+
+    * [Part 2: Lists, Tuples, Indexing, Slicing](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.2-The-Core-Language-of-Python.ipynb)
+
+    * [Part 3: For Loops, While Loops, Dictionaries, Comprehensions](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.3-The-Core-Language-of-Python.ipynb)
+
+    * [Part 4: Functions, Classes, Exceptions (WORK IN PROGRESS)](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.4-The-Core-Language-of-Python.ipynb)
+
+    * Part 5: I/O, Modules, Import, Namespaces, Standard Libraries, Packages
 
 3. Numpy
 
