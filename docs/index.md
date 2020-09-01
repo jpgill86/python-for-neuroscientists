@@ -50,3 +50,5 @@ Follow these steps to get involved:
 3. [Homework for August 16](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-03.ipynb)
 
 4. [Homework for August 30](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-04.ipynb)
+
+5. [Homework for September 6](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-05.ipynb)
