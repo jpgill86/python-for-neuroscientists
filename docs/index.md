@@ -27,9 +27,9 @@ Follow these steps to get involved:
 
     * [Part 3: For Loops, While Loops, Dictionaries, Comprehensions](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.3-The-Core-Language-of-Python.ipynb)
 
-    * [Part 4: Functions, Classes, Exceptions (WORK IN PROGRESS)](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.4-The-Core-Language-of-Python.ipynb)
+    * [Part 4: Functions, Classes, Exceptions](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.4-The-Core-Language-of-Python.ipynb)
 
-    * Part 5: I/O, Modules, Import, Namespaces, Standard Libraries, Packages
+    * [Part 5: I/O, Modules, Import, Namespaces, Standard Library, Packages](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.5-The-Core-Language-of-Python.ipynb)
 
 3. Numpy
 
