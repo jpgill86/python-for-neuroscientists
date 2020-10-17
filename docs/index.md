@@ -31,15 +31,9 @@ Follow these steps to get involved:
 
     * [Part 5: I/O, Modules, Import, Namespaces, Standard Library, Packages](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.5-The-Core-Language-of-Python.ipynb)
 
-3. Numpy
+3. NumPy, SciPy, pandas, seaborn, matplotlib (see Oct 11 recording)
 
-4. pandas
-
-5. matplotlib
-
-6. Neo and Elephant
-
-7. neurotic
+4. Neo, Elephant, neurotic
 
 # Homework
 
@@ -54,3 +48,5 @@ Follow these steps to get involved:
 5. [Homework for September 6](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-05.ipynb)
 
 6. [Homework for September 13](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-06.ipynb)
+
+7. [Homework for October 18](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/homework/Homework-07.ipynb)
