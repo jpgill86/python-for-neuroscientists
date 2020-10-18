@@ -31,7 +31,7 @@ Follow these steps to get involved:
 
     * [Part 5: I/O, Modules, Import, Namespaces, Standard Library, Packages](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/02.5-The-Core-Language-of-Python.ipynb)
 
-3. NumPy, SciPy, pandas, seaborn, matplotlib (see Oct 11 recording)
+3. [Essential Packages: NumPy, SciPy, pandas, seaborn, matplotlib](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/03-Essential-Packages.ipynb) (WORK IN PROGRESS; see Oct 11 recording)
 
 4. Neo, Elephant, neurotic
 
