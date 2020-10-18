@@ -33,7 +33,7 @@ Follow these steps to get involved:
 
 3. [Essential Packages: NumPy, SciPy, pandas, seaborn, matplotlib](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/03-Essential-Packages.ipynb) (WORK IN PROGRESS; see Oct 11 recording)
 
-4. Neo, Elephant, neurotic
+4. [Neuroscience Packages: Quantities, Neo, Elephant, neurotic](https://colab.research.google.com/github/jpgill86/python-for-neuroscientists/blob/master/notebooks/04-Neuroscience-Packages.ipynb) (WORK IN PROGRESS)
 
 # Homework
 
