@@ -5,7 +5,7 @@ title: ""
 
 # Join the Course
 
-*Participation in the course is by invitation only, so unsolicited requests will be denied.*
+***This course has concluded*** *but materials remain available to course participants. Participation in the course is by invitation only, so unsolicited requests will be denied.*
 
 Follow these steps to get involved:
 
